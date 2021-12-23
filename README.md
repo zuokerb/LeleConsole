@@ -18,8 +18,10 @@ Please make sure to read the [Issue Reporting Checklist](https://github.com/vuej
 
 Detailed changes for each release are documented in the [release notes](https://github.com/zuokerb/LeLeConsole/releases).
 
-## Stay In Touch
+## Official Website
 
-- [Twitter](https://twitter.com/vuejs)
-- [Blog](https://medium.com/the-vue-point)
-- [Job Board](https://vuejobs.com/?ref=vuejs)
+- [lelelab.work](https://www.lelelab.work/)
+
+## Supported Keyboards
+
+* [GG86](/keyboards/vendor/gg/)
