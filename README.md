@@ -12,7 +12,7 @@ For questions and support please use [community chat](https://chat.vuejs.org/). 
 
 ## Issues
 
-Please make sure to read the [Issue Reporting Checklist](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://github.com/zuokerb/LeLeConsole/blob/main/docs/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 ## Changelog
 
@@ -20,7 +20,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 ## Official Website
 
-- [lelelab.work](https://www.lelelab.work/)
+- [lelelab.work](https://www.lelelab.work/){:target="_blank"}
 
 ## Supported Keyboards
 
