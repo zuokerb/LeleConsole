@@ -4,7 +4,7 @@ LeLeConsole is a keyboard tool based on the [tmk\_keyboard firmware](https://git
 
 ## Documentation
 
-To check out docs, visit [docs](https://github.com/zuokerb/LeLeConsole/docs).
+To check out docs, visit [docs](https://github.com/zuokerb/LeLeConsole/docs/documentation).
 
 ## Questions
 
@@ -12,7 +12,12 @@ For questions and support please use [community chat](https://chat.vuejs.org/). 
 
 ## Issues
 
-Please make sure to read the [Issue Reporting Checklist](https://github.com/zuokerb/LeLeConsole/blob/main/docs/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Guidelines](https://github.com/zuokerb/LeLeConsole/blob/main/docs/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+
+## Pull Request
+
+Please make sure to read the [Pull Request Guidelines](https://github.com/zuokerb/LeLeConsole/blob/main/docs/CONTRIBUTING.md#pull-request-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+
 
 ## Changelog
 
