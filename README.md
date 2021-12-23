@@ -20,7 +20,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 ## Official Website
 
-- [lelelab.work](https://www.lelelab.work/){:target="_blank"}
+- <a href="https://www.lelelab.work" target="_blank">lelelab.work</a>
 
 ## Supported Keyboards
 
