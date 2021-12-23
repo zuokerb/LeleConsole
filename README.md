@@ -4,7 +4,7 @@ LeLeConsole is a keyboard tool based on the [tmk\_keyboard firmware](https://git
 
 ## Documentation
 
-To check out docs, visit [docs](https://github.com/zuokerb/LeLeConsole/docs/documentation).
+To check out docs, visit [docs](https://github.com/zuokerb/LeLeConsole/blob/main/docs/documentation.md).
 
 ## Questions
 
