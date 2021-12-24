@@ -15,6 +15,6 @@ Issues make people feel not comfort will be deleted.
 Submit a PR to commit your new keyboard JSON. PR should follow the [template here]().
 
 ## Download LeleConsole
-for [Windows]()
+for [Windows](https://github.com/zuokerb/LeLeConsole/releases)
 
-for [MacOS]()
+for [MacOS](https://github.com/zuokerb/LeLeConsole/releases)
