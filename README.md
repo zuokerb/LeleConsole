@@ -1,32 +1,22 @@
-## Introduction
+LeleConsole support keyboards in this repository. Welcome to add your json here!
 
-LeLeConsole is a keyboard tool based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for lele production, and more specifically, the [LeLe product line](https://www.lelelab.work).
 
-## Documentation
+## How to write json?
 
-To check out docs, visit [docs](https://github.com/zuokerb/LeLeConsole/blob/main/docs/documentation.md).
-
-## Questions
-
-For questions and support please use [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
+JSON is compatible with [VIA json format](https://caniusevia.com/docs/specification).
+Lele JSON enhancements, visit [wiki]()
 
 ## Issues
 
-Please make sure to read the [Issue Reporting Guidelines](https://github.com/zuokerb/LeLeConsole/blob/main/docs/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Issues could be new feature suggestion, bug report, general questions.
+Issues make people feel not comfort will be deleted.
+
 
 ## Pull Request
 
-Please make sure to read the [Pull Request Guidelines](https://github.com/zuokerb/LeLeConsole/blob/main/docs/CONTRIBUTING.md#pull-request-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
-
-
-## Changelog
-
-Detailed changes for each release are documented in the [release notes](https://github.com/zuokerb/LeLeConsole/releases).
+Submit a PR to commit your new keyboard JSON. PR should follow the [template here]().
 
 ## Official Website
 
 - <a href="https://www.lelelab.work" target="_blank">lelelab.work</a>
 
-## Supported Keyboards
-
-* [GG86](/keyboards/vendor/gg/)
