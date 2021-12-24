@@ -9,7 +9,7 @@ for Lele JSON enhancements, visit [wiki]()
 
 ## Issues
 Issues could be new feature suggestions, bug reports and general questions.
-Issues make people feel not comfort will be deleted.
+Issues make people feel incomfortable will be deleted.
 
 ## Pull Request
 Submit a PR to commit your new keyboard JSON. PR should follow the [template here]().
