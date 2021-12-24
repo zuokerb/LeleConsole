@@ -5,10 +5,12 @@ LeleConsole is a keyboard configurator that aims to be super easy to use.
 This repository contains supported keyboards configurations. Welcome to add keyboard JSON by submitting a PR.
 
 JSON is compatible with [VIA json format](https://caniusevia.com/docs/specification).
+
 for Lele JSON enhancements, visit [wiki]()
 
 ## Issues
 Issues could be new feature suggestions, bug reports and general questions.
+
 Issues make people feel incomfortable will be deleted.
 
 ## Pull Request
