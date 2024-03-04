@@ -1,0 +1,11 @@
+{
+  "reset_factory": "Default",
+  "configure": {
+    "new_firmware": "新しいファームウェア"
+  },
+  "help": {
+    "mod_short": "ショートプレスでトリガーするキーを設定してください。",
+    "mod_long": "長押しで mod キーをトリガーに設定してください。",
+    "mod_tap_select": "mod tapのキーを選択してください"
+  }
+}

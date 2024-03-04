@@ -1,0 +1,75 @@
+[
+  {
+    "name": "80s_after_dark",
+    "colors": {
+      "--bg-color": "#1b1d36",
+      "--text-color": "#fca6d1",
+      "--sub-color": "#99d6ea",
+      "--highlight-color": "#fffb85"
+    }
+  },
+  {
+    "name": "darling",
+    "colors": {
+      "--bg-color": "#fec8cd",
+      "--text-color": "#ffffff",
+      "--sub-color": "#a30000",
+      "--highlight-color": "#2e7dde"
+    }
+  },
+  {
+    "name": "menthol",
+    "colors": {
+      "--bg-color": "#00c18c",
+      "--text-color": "#ffffff",
+      "--sub-color": "#186544",
+      "--highlight-color": "#e03c3c"
+    }
+  },
+  {
+    "name": "mr_sleeves",
+    "colors": {
+      "--bg-color": "#d1d7da",
+      "--text-color": "#daa99b",
+      "--sub-color": "#9a9fa1",
+      "--highlight-color": "#bf6464",
+      "color": "#8fadc9"
+    }
+  },
+  {
+    "name": "shoko",
+    "colors": {
+      "--bg-color": "#ced7e0",
+      "--text-color": "#81c4dd",
+      "--sub-color": "#7599b1",
+      "--highlight-color": "#bf616a"
+    }
+  },
+  {
+    "name": "terminal",
+    "colors": {
+      "--bg-color": "#191a1b",
+      "--text-color": "#79a617",
+      "--sub-color": "#48494b",
+      "--highlight-color": "#a61717"
+    }
+  },
+  {
+    "name": "vscode",
+    "colors": {
+      "--bg-color": "#1e1e1e",
+      "--text-color": "#007acc",
+      "--sub-color": "#4d4d4d",
+      "--highlight-color": "#f44747"
+    }
+  } ,
+  {
+    "name": "default",
+    "colors": {
+      "--bg-color": "#1e1e1e",
+      "--text-color": "#007acc",
+      "--sub-color": "#4d4d4d",
+      "--highlight-color": "#f44747"
+    }
+  }
+]
