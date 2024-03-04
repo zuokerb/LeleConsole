@@ -1,6 +1,9 @@
 # LeleConsole #
 LeleConsole is a keyboard configurator that aims to be super easy to use.
 
+## Author
+ZHENGBANG LI
+
 ## How to add my keyboard?
 This repository contains supported keyboards configurations. Welcome to add keyboard JSON by submitting a PR.
 
